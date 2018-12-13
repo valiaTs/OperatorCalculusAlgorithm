@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author valia
+ *
+ */
+module OperatorCalculusAlgorithm {
+}
